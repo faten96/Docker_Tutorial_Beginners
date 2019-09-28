@@ -2,3 +2,7 @@
 docker run hello-world
 
 docker pull busybox
+docker images
+docker run busybox
+docker run busybox echo "hello from busybox"
+docker ps
