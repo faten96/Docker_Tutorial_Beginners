@@ -1,0 +1,4 @@
+//test the installation of docker on your computer 
+docker run hello-world
+
+docker pull busybox
